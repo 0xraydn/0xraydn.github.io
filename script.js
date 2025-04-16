@@ -11,7 +11,7 @@ const COMMANDS = {
   education:
     "Currently studying btech in CSE with specialization in cybersecurity , located in Kozhikode, Kerala, India.",
   
-  experience: "loading.......",
+  experience: "Networking and linux",
 
   admin: "Access Denied !",
   
